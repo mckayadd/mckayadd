@@ -4,7 +4,7 @@
 
 📍 Partille, Sweden  
 ✉️ mckaya@outlook.com | 
-🔗 [GitHub](https://github.com/mckayadd) • [LinkedIn](https://bit.ly/2UqUTNg) • [Google Scholar](http://bit.ly/31ynDW0) • [PhD Thesis](http://etd.lib.metu.edu.tr/upload/12625441/index.pdf)
+🔗 [GitHub](https://github.com/mckayadd) | [LinkedIn](https://bit.ly/2UqUTNg) | [Google Scholar](http://bit.ly/31ynDW0) | [PhD Thesis](http://etd.lib.metu.edu.tr/upload/12625441/index.pdf)
 
 ---
 
@@ -47,8 +47,8 @@ SQL · SQLite · MySQL · GitLab · Jenkins · Trello
 
 ## 🔬 Selected Projects
 
-- **SUNRISE** (2023–2025): Safety assurance for connected, automated mobility—maneuver detection pipelines using IMU/CAN.  
-- **EVIDENT** (2023–2025): Virtual validation for ADAS/AD—enhanced simulation fidelity and real-time gateways.  
+- **SUNRISE** (2023–2025): Safety assurance for connected, automated mobility.  
+- **EVIDENT** (2023–2025): Virtual validation for ADAS/AD—enhanced simulation fidelity.  
 - **HAVESIS** (2017–2018): DDS-based hybrid emulator for converter-control and avionic systems.  
 - **AutoRFPower** (2021–2022): Automated RF-power measurement and calibration (.NET/C#) for multi-vendor labs.
 
