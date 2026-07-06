@@ -2,7 +2,7 @@
 
 **Software Engineer / Architect | Ph.D., Distributed Real-Time Systems**
 
-📍 Partille, Sweden  
+📍 Gothenburg, Sweden  
 ✉️ mckaya@outlook.com | 
 🔗 [GitHub](https://github.com/mckayadd) | [LinkedIn](https://bit.ly/2UqUTNg) | [Google Scholar](http://bit.ly/31ynDW0) | [PhD Thesis](http://etd.lib.metu.edu.tr/upload/12625441/index.pdf)
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am a software engineer and architect with a PhD in Computer Engineering and over a decade of experience designing distributed, real-time control frameworks, Industrial IoT platforms, and cloud-native microservices. My research and professional work focus on **modular, reusable architectures**, **system interoperability**, and **data science**.
+I am a software engineer with a PhD in Computer Engineering and over a decade of experience designing distributed, real-time control frameworks, Industrial IoT platforms, and cloud-native microservices. My research and professional work focus on **modular, reusable architectures**, **system interoperability**, and **data science**.
 
 ---
 
