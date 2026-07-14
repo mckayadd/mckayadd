@@ -1,6 +1,6 @@
 # Muhammed Çağrı Kaya
 
-**Software Engineer / Architect | Ph.D., Distributed Real-Time Systems**
+**Software Engineer | Ph.D., Distributed Real-Time Systems**
 
 📍 Gothenburg, Sweden  
 ✉️ mckaya@outlook.com | 
