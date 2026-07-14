@@ -4,7 +4,7 @@
 
 📍 Gothenburg, Sweden  
 ✉️ mckaya@outlook.com | 
-🔗 [GitHub](https://github.com/mckayadd) | [LinkedIn]([https://bit.ly/2UqUTNg](https://www.linkedin.com/in/muhammed-%C3%A7a%C4%9Fr%C4%B1-kaya-45b64453/)) | [Google Scholar]([http://bit.ly/31ynDW0](https://scholar.google.com.tr/citations?user=y_bwAFUAAAAJ&hl=en)) | [PhD Thesis](http://etd.lib.metu.edu.tr/upload/12625441/index.pdf)
+🔗 [GitHub](https://github.com/mckayadd) | [LinkedIn]((https://www.linkedin.com/in/muhammed-%C3%A7a%C4%9Fr%C4%B1-kaya-45b64453/)) | [Google Scholar]((https://scholar.google.com.tr/citations?user=y_bwAFUAAAAJ&hl=en)) | [PhD Thesis](http://etd.lib.metu.edu.tr/upload/12625441/index.pdf)
 
 ---
 
